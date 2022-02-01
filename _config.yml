@@ -47,8 +47,6 @@ github:
 remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
- 
-gems:
   - jekyll-paginate
   - redcarpet
   - jekyll-gist
