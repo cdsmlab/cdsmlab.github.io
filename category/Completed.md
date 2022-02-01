@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Completed Projects
+title: Inoculation Games
 ---
