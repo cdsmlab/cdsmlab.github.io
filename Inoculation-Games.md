@@ -7,21 +7,9 @@ sidebar_link: true
 <a href = "https://www.getbadnews.com/#intro" target = "_blank">
 <img src = "{{site.url}}/assets/img/bad-news.png"> 
 </a>
-The Bad News Game is also available in:
-* <a href = "www.getbadnewsbosnia.com">Bosnian</a>
-* <a href = "www.getbadnews.cz">Czech</a>
-* <a href = "www.slechtnieuws.nl">Dutch</a>
-* <a href = "www.badnewsesperanto.com">Esperanto</a>
-* <a href = "www.getbadnews.de">German</a>
-* <a href = "www.getbadnews.gr">Greek</a>
-* <a href = "www.getbadnewsmoldova.com">Moldovan-Romanian</a>
-* <a href = "www.getbadnews.pl">Polish</a>
-* <a href = "www.getbadnews.ro">Romanian</a>
-* <a href = "www.getbadnewsrussian.com">Russian</a>
-* <a href = "www.getbadnews.rs">Serbian</a>
-* <a href = "www.getbadnews.si">Slovenian</a>
-* <a href = "www.badnewsgame.se">Swedish</a>
-* <a href = "www.getbadnewsukraine.com">Ukranian</a>
+The Bad News Game is also available in <a href = "www.getbadnewsbosnia.com">Bosnian</a>,<a href = "www.getbadnews.cz">Czech</a>,<<a href = "www.slechtnieuws.nl">Dutch</a>,
+<a href = "www.badnewsesperanto.com">Esperanto</a>,<a href = "www.getbadnews.de">German</a>,<a href = "www.getbadnews.gr">Greek</a>,
+<a href = "www.getbadnewsmoldova.com">Moldovan-Romanian</a>,<a href = "www.getbadnews.pl">Polish</a>,<a href = "www.getbadnews.ro">Romanian</a>,<a href = "www.getbadnewsrussian.com">Russian</a>,<a href = "www.getbadnews.rs">Serbian</a>,<a href = "www.getbadnews.si">Slovenian</a>,<a href = "www.badnewsgame.se">Swedish</a>,<a href = "www.getbadnewsukraine.com">Ukranian</a>
 </p>
 Publications: 
 * Basol, M., Roozenbeek, J., & van der Linden, S. (2020). Good News about Bad News: Gamified Inoculation Boosts Confidence and Cognitive Immunity Against Fake News. Journal of Cognition, 3(1), 2. <a href = "http://doi.org/10.5334/joc.91
@@ -35,22 +23,24 @@ Publications:
 <img src = "{{site.url}}/assets/img/go-viral.png"> 
 </a>
 </p>
-The Go Viral Game is also available in:
-<a href ="https://www.goviralgame.com/hr" targete = "_blank">Croatian</a>
-<a href ="https://www.goviralgame.com/et" target = "_blank">Estonian</a>
-<a href = "https://www.goviralgame.com/fr" target = "_blank">French</a>
-<a href = "https://www.goviralgame.com/de" target = "_blank">German</a>
-<a href = "https://www.goviralgame.com/it" target = "_blank">Italian</a>
-<a href = "https://www.goviralgame.com/pt" target = "_blank">Portugese</a>
-<a href = "https://www.goviralgame.com/ru" target = "_blank">Russian</a>
-<a href = "https://www.goviralgame.com/es" target = "_blank">Spanish</a>
-<a href = "https://www.goviralgame.com/ua" target = "_blank">Ukranian</a>
+The Go Viral Game is also available in <a href ="https://www.goviralgame.com/hr" targete = "_blank">Croatian</a>,<a href ="https://www.goviralgame.com/et" target = "_blank">Estonian</a>,<a href = "https://www.goviralgame.com/fr" target = "_blank">French</a>,<a href = "https://www.goviralgame.com/de" target = "_blank">German</a>,<a href = "https://www.goviralgame.com/it" target = "_blank">Italian</a>,<a href = "https://www.goviralgame.com/pt" target = "_blank">Portugese</a>,<a href = "https://www.goviralgame.com/ru" target = "_blank">Russian</a>,<a href = "https://www.goviralgame.com/es" target = "_blank">Spanish</a>,<a href = "https://www.goviralgame.com/ua" target = "_blank">Ukranian</a>
 
 Publications: 
 * Roozenbeek, J., van der Linden, S. Fake news game confers psychological resistance against online misinformation. Palgrave Commun 5, 65 (2019).<a href = "https://doi.org/10.1057/s41599-019-0279-9" target = "_blank">https://doi.org/10.1057/s41599-019-0279-9</a>
-*   Basol, M., Roozenbeek, J., Berriche, M., Uenal, F., McClanahan, W. P., & Linden, S. van der. (2021). Towards psychological herd immunity: Cross-cultural evidence for two prebunking interventions against COVID-19 misinformation. Big Data & Society. <a href = "https://doi.org/10.1177/20539517211013868" target = "_blank">https://doi.org/10.1177/20539517211013868</a>
+* Basol, M., Roozenbeek, J., Berriche, M., Uenal, F., McClanahan, W. P., & Linden, S. van der. (2021). Towards psychological herd immunity: Cross-cultural evidence for two prebunking interventions against COVID-19 misinformation. Big Data & Society. <a href = "https://doi.org/10.1177/20539517211013868" target = "_blank">https://doi.org/10.1177/20539517211013868</a>
 
+<h2>Breaking Harmony Square</h2>
+<p><a href = "" target = "_blank">
+<img src = "{{site.url}}/assets/img/breaking-harmony.png"> 
+</a>
+</p>
+Publications: 
+* Roozenbeek, J., & van der Linden, S. (2020). Breaking Harmony Square: A game that “inoculates” against political misinformation. Harvard Kennedy School (HKS) Misinformation Review. <a href = "https://doi.org/10.37016/mr-2020-47
+" target = "_blank">https://doi.org/10.37016/mr-2020-47</a>
+
+<h2>Join This Group</h2>
 <p><a href = "https://whatsapp.aboutbadnews.com/#/intro" target = "_blank">
 <img src = "{{site.url}}/assets/img/join-this-group.png"> 
 </a>
 </p>
+

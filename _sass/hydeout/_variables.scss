@@ -39,11 +39,11 @@ $box-shadow-opacity: 0.16 !default;
 $default-box-shadow: $box-shadow-size $box-shadow-size $box-shadow-size rgba(0, 0, 0, $box-shadow-opacity);
 
 $code-font-family: Menlo, Monaco, 'Courier New', monospace !default;
-$code-color: #fff !default;
+$code-color: rgb(49, 46, 46) !default;
 
 // Hyde theming
-$sidebar-bg-color: #17228D!default;
-$sidebar-fg-color: #fff !default;
+$sidebar-bg-color: #abcceb!default;
+$sidebar-fg-color: rgb(49, 46, 46) !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 
