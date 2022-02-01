@@ -34,7 +34,14 @@ github_username:  jekyll
 remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
+ 
+gems:
+  - jekyll-paginate
+  - redcarpet
+  - jekyll-gist
+  - pygments.rb
 
+sidebar_link: true
 #Tells jekyll how many posts per page
 
 # Exclude from processing.
