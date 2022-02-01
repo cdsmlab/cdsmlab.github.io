@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Completed
+title: Completed Projects
 ---
