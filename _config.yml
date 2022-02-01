@@ -21,10 +21,10 @@
 markdown:         kramdown
 highlighter:      rouge
 
-title: Your awesome title
+title: CDSM 
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  
+  Cambridge Social Decision-Making Lab  
 #baseurl: "cdsmlab.github.io" # the subpath of your site, e.g. /blog
 url: "http://cdsmlab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
