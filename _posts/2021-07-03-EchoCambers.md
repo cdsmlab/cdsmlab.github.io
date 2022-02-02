@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vaccine Hesitancy & Echo Chambers"
+title:  "Project 2"
 date:   2022-01-15
 categories: 
     - Ongoing Projects
