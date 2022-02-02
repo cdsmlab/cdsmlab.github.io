@@ -3,8 +3,9 @@ layout: default
 ---
 <div>
 
-  Welcome to the Cambridge Social-Decision Making Lab! 
-
+  <h2>Welcome to the Cambridge Social-Decision Making Lab! We are a part of the University of Cambridge's Department of Psychology,
+     directed by <a href= "https://www.psychol.cam.ac.uk/people/sander-van-der-linden" target = "_blank">Professor Sander van der Linden.</a>
+  </h2>
 </div>
 <div class="content">
   {% include pagination-newer.html %}
@@ -13,11 +14,11 @@ layout: default
 
   {% for post in paginator.posts %}
   <article class="post-body">
-    <h2 class="post-title">
+    <h3 class="post-title">
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}
       </a>
-    </h2>
+    </h3>
     {% include post-meta.html post=post %}
 
     {% if post.excerpt %}
