@@ -1,5 +1,5 @@
 ---
 layout: category
-title: News 
+title: What's On 
 ---
 
